@@ -1,4 +1,4 @@
-# Predictive-model-for-Goodreads-Book-ratings
+# A predictive model for Goodreads Book ratings
 
 ## Introduction
 The goal of this project is to mine the reviews,books and other user data, conduct hypothesis testing, and make prediction about user’s classification, book ratings.
