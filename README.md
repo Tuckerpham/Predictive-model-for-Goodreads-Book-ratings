@@ -1,5 +1,7 @@
 # A predictive model for Goodreads Book ratings
 
+http://nbviewer.jupyter.org/github/Tuckerpham/Predictive-model-for-Goodreads-Book-ratings/blob/master/Tucker%20-%20Predictive%20model%20for%20Goodreads%20Book%20Ratings%20.ipynb
+
 ## Introduction
 The goal of this project is to mine the reviews,books and other user data, conduct hypothesis testing, and make prediction about user’s classification, book ratings.
 
